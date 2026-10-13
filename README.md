@@ -68,15 +68,3 @@ A robust, production-grade backend application built with **FastAPI** and **Pyth
    The API will be available locally at `http://127.0.0.1:8000`. You can access the interactive Swagger documentation at `http://127.0.0.1:8000/docs`.
 
 ---
-
-## Project Structure
-
-```text
-├── main.py               # FastAPI application entry point
-├── models.py             # Database models and schemas
-├── database.py           # Database connection and session management
-├── requirements.txt      # Project dependencies
-└── README.md             # Project documentation
-```
-
----
