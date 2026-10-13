@@ -1,4 +1,4 @@
-# Photo & Video Sharing API
+# Photo and Video Sharing API
 
 A robust, production-grade backend application built with **FastAPI** and **Python** that handles user authentication, database persistence, and cloud-based media handling. Inspired by early-stage social platforms, this project serves as a comprehensive demonstration of secure backend architecture, RESTful API design, and media pipeline integration.
 
